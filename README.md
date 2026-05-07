@@ -4,7 +4,8 @@
 **Datum:** Mai 2026  
 **Ort:** Dresden, Deutschland  
 **Status:** Postulat / Independent Research  
-**DOI:** [Noch zu generieren via Zenodo]
+**DOI: [![DOI](https://zenodo.org/badge/1231709790.svg)](https://doi.org/10.5281/zenodo.20066727)
+
 
 ---
 
