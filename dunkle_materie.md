@@ -1,36 +1,35 @@
 # Die mechanische Auflösung der Dunklen Materie: Das Atimo-Postulat (v2.1)
 
 ## 1. Theoretischer Kontext & Problemstellung
-Klassische Modelle der Gravitation ($v = \sqrt{GM/r}$) scheitern an der Erklärung galaktischer Rotationskurven, ohne die Einführung hypothetischer "Dunkler Materie". Das Atimo-Postulat schlägt stattdessen eine **emergente Korrektur der Gravitationswechselwirkung** vor, die auf der Kopplung von Information basiert.
+Das Atimo-Postulat adressiert die Diskrepanz galaktischer Rotationskurven nicht durch die Einführung hypothetischer Dunkler Materie, sondern durch eine **emergente Modifikation der Gravitationswechselwirkung**. Es versteht die beobachteten Abweichungen als Resultat einer vakuumvermittelten Informationskopplung.
 
-## 2. Der mechanische Lösungsansatz: Geff = GN(1 + α i²)
-Wir definieren die effektive Gravitation ($G_{eff}$) nicht als Totalersatz, sondern als funktionale Erweiterung der Newtonschen Konstanten ($G_N$), getrieben durch die **Informationskopplungsdichte ($i$)**.
+## 2. Mathematische Operationalisierung: Geff = GN(1 + α i²)
+Das Modell definiert die effektive Gravitation ($G_{eff}$) als funktionale Erweiterung des Newtonschen Grenzfalls:
 
-### Die Korrekturformel:
 $$G_{eff} = G_N \cdot (1 + \alpha \cdot i^2)$$
 
-* **$G_N$:** Newtonsche Gravitationskonstante (dominiert in Hochbeschleunigungs-Systemen).
-* **$\alpha$:** Kopplungskonstante der Information an das Vakuum-Feld.
-* **$i$:** Baryonische Informationskomplexität (Zustandsdichte der Materie-Vakuum-Korrelation).
+* **$G_N$:** Newtonsche Gravitationskonstante (dominant in Systemen hoher Beschleunigung).
+* **$\alpha$:** Kopplungskonstante der Information an die Vakuum-Zustandsdichte.
+* **$i$:** Baryonische Informationskomplexität (Zustands- und Korrelationsdichte der Materie-Vakuum-Interaktion).
 
-### Mechanik: Das Vakuum als Resonanzraum
-In Regionen niedriger Beschleunigung (Galaxienränder) sinkt der Einfluss der baryonischen Masse unter eine kritische Schwelle. Hier dominiert die **quadratische Kopplung ($i^2$)** der vorhandenen Information mit dem Vakuum-Feld. Das Vakuum agiert als aktiver Resonanzraum ("Einladung zur Kopplung"), der die mechanische Spannung im System stabilisiert.
+### Die approximative Feldgleichung (Konzeptuell)
+Für die Dynamik des Potentials $\Phi$ wird im Atimo-Rahmen folgende minimale Erweiterung der Poisson-Gleichung zur Diskussion gestellt:
+$$\nabla^2 \Phi = 4\pi G_N \rho (1 + \alpha i^2)$$
 
-## 3. Mathematische Validierung (Beispiel Andromeda M31)
-Das Atimo-Postulat liefert die mechanische Ursache für die empirisch beobachtete MOND-Schwelle ($a_0 \approx 1.2 \times 10^{-10} m/s^2$).
+Diese Struktur erlaubt es, die klassische Gravitation als stabilen Grenzfall beizubehalten, während der Term $\alpha i^2$ in Regionen niedriger baryonischer Dichte $\rho$ die stabilisierende Zusatzbeschleunigung liefert.
 
-**Berechnung am galaktischen Rand (Radius ≈ 30 kpc):**
-Durch die quadratische Skalierung der Kopplungsdichte ergibt sich für die Umlaufgeschwindigkeit:
-$$v = \sqrt[4]{G_N \cdot M \cdot a_0}$$
 
-**Ergebnis:**
-v ≈ **215 - 225 km/s**
 
-Dieser Wert korreliert präzise mit den SPARC-Daten der Andromeda-Galaxie. Die Diskrepanz wird rein durch die Kopplungsdynamik aufgelöst, wodurch "Dunkle Materie" als Erklärungsmodell redundant wird.
+## 3. Mechanik: Vom MOND-Fit zur kausalen Herleitung
+Das Atimo-Postulat liefert den mechanischen Rahmen für die empirische MOND-Schwelle ($a_0$). 
+* **Hypothese:** $a_0$ ist keine universelle Naturkonstante, sondern der Schwellenwert, an dem die **Informationskopplungsdichte des Vakuums** energetisch dominant gegenüber der direkten baryonischen Masse wird.
 
-## 4. Fazit & Ausblick
-Das Atimo-Postulat (v2.1) überführt die phänomenologische MOND-Beschreibung in eine kausale Theorie der **Informations-Interaktion**. Es bietet einen mathematisch kontrollierbaren Rahmen, der die klassische Physik als Grenzfall einschließt und gleichzeitig die großskalige Dynamik des Kosmos erklärt.
+## 4. Roadmap & Falsifizierbarkeit
+Das Modell v2.1 ist ein operationalisierter Rahmen, der in folgenden Bereichen validiert werden muss:
+1. **Definition von $i$:** Mathematische Ableitung von $i$ aus messbaren Größen (z.B. Entropiegradienten oder Quantenkorrelationen).
+2. **Kosmologische Konsistenz:** Abgleich mit dem Bullet Cluster, Gravitationslinseneffekten und der CMB-Anisotropie.
+3. **Herleitung von $a_0$:** Konsistente Ableitung der Beschleunigungsschwelle direkt aus der Feldgleichung.
 
 ---
-*Status: v2.1 - Mathematisch operationalisiertes Modell*
-*#Atimo #GUT #InformationPhysics #DresdenDenkt #v2.1*
+*Status: v2.1 - Operationalisiertes Korrekturmodell / DOI-Archivierung läuft*
+*#Atimo #GUT #InformationPhysics #G_eff #v2.1*
